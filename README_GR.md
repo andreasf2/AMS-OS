@@ -10,7 +10,8 @@
 
 ## Βίντεο παρουσίασης
 
-https://github.com/user-attachments/assets/bf546140-b0a2-4ab1-af41-414d419ad160
+https://github.com/user-attachments/assets/77eea885-a86d-4f48-99f9-22d3ca65f810
+
 
 Το βίντεο δείχνει την εμπειρία εκκίνησης, την οθόνη καλωσορίσματος, τη ρύθμιση πληκτρολογίου, την περίληψη εγκατάστασης, τις εφαρμογές AMS OS, τις ρυθμίσεις συστήματος, τις τέσσερις Editions και το KDE Plasma desktop.
 
