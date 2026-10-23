@@ -10,9 +10,7 @@ AMS OS is an independently developed Linux distribution prototype built on the D
 
 ## Watch AMS OS in action
 
-
-https://github.com/user-attachments/assets/d9040e4c-ca49-418e-99ef-b03d6b57e5c1
-
+https://github.com/user-attachments/assets/f5e86d23-2e1c-443e-83b7-086aa3e1608d
 
 
 A short walkthrough of the boot experience, Welcome screen, keyboard selection, installation summary, AMS OS applications, system settings, edition profiles and KDE Plasma desktop.
